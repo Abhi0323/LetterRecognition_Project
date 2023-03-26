@@ -38,7 +38,7 @@ Bi-directional elimination (BDE) or Stepwise selection: This method is used to r
 Conclusion:
 
 
-In conclusion, the objective of this project is to classify 26 English letters based on 16 features using SVM. The SVM model with a non-linear kernel performed the best among all other models. Feature selection methods such as Lasso and Bi-directional elimination were used to select the best features. The dataset is preprocessed and cleaned, and no further processing was required.
+In conclusion, the objective of this project is to classify 26 English letters based on 16 features using SVM. KNN and SVM model with a non-linear kernel performed the best among all other models. Feature selection methods such as Lasso and Bi-directional elimination were used to select the best features. The dataset is preprocessed and cleaned, and no further processing was required.
 
 For more information, please refer to the reference links.
 
